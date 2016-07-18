@@ -1,0 +1,7 @@
+Larry(1) Moe(2) Curly(3) Go(0): 2
+Larry(1) Moe(2) Curly(3) Go(0): 1
+Larry(1) Moe(2) Curly(3) Go(0): 3
+Larry(1) Moe(2) Curly(3) Go(0): 0
+Moe: slap head
+Larry: poke eyes
+Curly: suffer abuse
